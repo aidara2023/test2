@@ -5,6 +5,7 @@
       <!-- Suppression du lien "/about" et ajout du lien "/todo-list". -->
       <router-link to="/todo-list">TodoList</router-link>
       <router-link to="/issue-list">IssueList</router-link>
+      <router-link to="/todos-issues">TodosIssues</router-link>
     </div>
     <router-view/>
   </div>
